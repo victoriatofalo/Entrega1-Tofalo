@@ -2,7 +2,7 @@
 - Ejecutar el código en la terminar con runserver e ingresar a http://127.0.0.1:8000/comercio/.
 Los modelos creados son productos (productos disponibiles de la empresa), mayoristas (empresas interesadas para que se registren para recibir información) y sorteo (mensualmente se realiza, el usuario debe registrarse para acceder a la base de datos)
 
-Incio - http://127.0.0.1:8000/comercio/inicio/:
+Inicio - http://127.0.0.1:8000/comercio/inicio/:
 Alli se ve el template de inicio heredado de template base. Se ve la totalidad de productos que tenemos en la base de datos cuya información cargada es el nombre, el material y el precio.
 Tambien se puede interactuar con los botones de redes sociales.
 
